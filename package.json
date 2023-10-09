@@ -1,7 +1,7 @@
 {
   "name": "@bioyuan/utils",
-  "version": "1.0.0",
-  "description": "标源内部工具类",
+  "version": "1.0.1",
+  "description": "bioyuan-utils",
   "private": false,
   "main": "dist/index.esm.js",
   "module": "dist/index.cjs.js",
@@ -14,6 +14,10 @@
   },
   "author": "dudu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:onburn/bioyuan-utils.git"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.4",
     "@rollup/plugin-node-resolve": "^15.2.1",
